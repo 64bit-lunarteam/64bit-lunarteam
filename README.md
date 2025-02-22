@@ -2,6 +2,17 @@
 <div align="center">Hi, we're lunar team, a hacking group dedicated to making cool, open source hacking tools for website hacking, discord hacking, etc!
 If you want to support us, we'd be super grateful if you followed our github and joined our <a href="https://discord.gg/4vgSENfW2k">discord server</a>.</div>
 <br>
+<h1 align="center">0UR T3AM</h1>
+<div align="center">
+    ⭐Leader⭐ --> <a href="https://github.com/certifiedfish101">venom-kitty</a> <-- ⭐Leader⭐
+    <br>
+    <a href="https://github.com/certifiedfish101">certifiedfish101</a>
+    <br>
+
+    
+</div>
+<br>
+<h1 align="center">ST@TIST1CS</h1>
 <div align="center">
     <img src="https://img.shields.io/github/followers/64bit-lunarteam?label=Follower&style=social)](https://github.com/64bit-lunarteam)">
     <img src="https://komarev.com/ghpvc/?username=64bit-lunarteam&label=Visitor&color=blue&style=plastic">
